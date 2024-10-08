@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/iisvetti/store.github.io/static/css/main.3e126e04.css",
+    "main.js": "/iisvetti/store.github.io/static/js/main.4467bbdf.js",
+    "static/media/about-flow.jpg": "/iisvetti/store.github.io/static/media/about-flow.4b398b057bfe8677da10.jpg",
+    "static/media/flow1.webp": "/iisvetti/store.github.io/static/media/flow1.0511eea683d18117b0f9.webp",
+    "static/media/main-flow.jpg": "/iisvetti/store.github.io/static/media/main-flow.fb6f308c49b29922fa69.jpg",
+    "static/media/flow2.webp": "/iisvetti/store.github.io/static/media/flow2.83dc778d1d44a04041e7.webp",
+    "static/media/flow3.webp": "/iisvetti/store.github.io/static/media/flow3.77e057c48306fb081cf6.webp",
+    "index.html": "/iisvetti/store.github.io/index.html",
+    "main.3e126e04.css.map": "/iisvetti/store.github.io/static/css/main.3e126e04.css.map",
+    "main.4467bbdf.js.map": "/iisvetti/store.github.io/static/js/main.4467bbdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e126e04.css",
+    "static/js/main.4467bbdf.js"
+  ]
+}
