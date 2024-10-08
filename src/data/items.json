@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Flower1",
+      "price": 10.99,
+      "imgUrl": "/images/flow1.webp"
+    },
+    {
+      "id": 2,
+      "name": "Flower2",
+      "price": 7.08,
+      "imgUrl": "/images/flow2.webp"
+    },
+    {
+      "id": 3,
+      "name": "Flower3",
+      "price": 5.23,
+      "imgUrl": "/images/flow3.webp"
+    } 
+]
